@@ -1,4 +1,5 @@
 <p>
+  <img src="https://komarev.com/ghpvc/?username=samarthya2301&color=green&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
   <h1 align="center"><b>Hi there, I'm Samarthya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
@@ -8,4 +9,3 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=FFCDD2" alt="Gmail" /></a>&nbsp;
 </p>
 </br>
-<img src="https://komarev.com/ghpvc/?username=samarthya2301&color=green&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
