@@ -1,6 +1,6 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=samarthya2301&color=blue&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
   <h1 align="center"><b>Hi there, I'm Samarthya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30"></h1>
+  <img src="https://komarev.com/ghpvc/?username=samarthya2301&color=blue&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/samarthya-bararia-4b7338195/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
