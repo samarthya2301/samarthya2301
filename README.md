@@ -9,4 +9,3 @@
 </p>
 </br>
 <img src="https://komarev.com/ghpvc/?username=samarthya2301&color=green&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
-https://komarev.com/ghpvc/?username=samarthya2301&color=green&style=flat&label=PROFILE%20VIEWS
