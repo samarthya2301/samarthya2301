@@ -7,3 +7,5 @@
 <a href="https://github.com/samarthya2301"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=FFCDD2" alt="Gmail" /></a>&nbsp;
 </p>
+</br>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
