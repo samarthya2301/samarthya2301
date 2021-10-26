@@ -8,4 +8,4 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=FFCDD2" alt="Gmail" /></a>&nbsp;
 </p>
 </br>
-![](https://komarev.com/ghpvc/?username=samarthya2301)
+https://komarev.com/ghpvc/?username=samarthya2301&color=green&style=flat&label=PROFILE%20VIEWS
