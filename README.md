@@ -1,2 +1,2 @@
 <h1>SAMARTHYA BARARIA</h1>
-<h5>E-Mail: samarthya2301@gmail.com</h5>
+<p>E-Mail: samarthya2301@gmail.com</p>
