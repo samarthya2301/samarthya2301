@@ -1,1 +1,1 @@
-<heading style="font-size: 10px;">SAMARTHYA BARARIA</heading>
+<heading style="font-size: 70px;">SAMARTHYA BARARIA</heading>
