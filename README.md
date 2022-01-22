@@ -1,5 +1,4 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=samarthya2301&color=blue&style=flat&label=PROFILE%20VIEWS"></a>&nbsp;
   <h1 align="center"><b>Hi there, I'm Samarthya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
