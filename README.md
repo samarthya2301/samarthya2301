@@ -1,1 +1,1 @@
-<h1>Samarthya Bararia</h1>
+<h1 style="font-size: 150px;">SAMARTHYA BARARIA</h1>
