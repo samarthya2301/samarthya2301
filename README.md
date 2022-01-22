@@ -1,1 +1,1 @@
-<heading style="font-size: 100px;">this is heading 100px</heading>
+<h1>SAMARTHYA BARARIA</h1>
