@@ -2,4 +2,5 @@
 <a>E-Mail: </a>
 <a href="mailto:samarthya2301@gmail.com">samarthya2301@gmail.com</a>
 <br>
-<a href="https://www.linkedin.com/in/samarthya-bararia-4b7338195/">LinkedIn | Samarthya Bararia</a>
+<a>LinkedIn: </a>
+<a href="https://www.linkedin.com/in/samarthya-bararia-4b7338195/">Samarthya Bararia</a>
