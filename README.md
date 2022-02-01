@@ -3,4 +3,4 @@
 <a href="mailto:samarthya2301@gmail.com">samarthya2301@gmail.com</a>
 <br>
 <a>LinkedIn: </a>
-<a href="https://www.linkedin.com/in/samarthya-bararia-4b7338195/">Samarthya Bararia</a>
+<a href="https://www.linkedin.com/in/samarthyabararia/">Samarthya Bararia</a>
